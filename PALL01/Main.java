@@ -1,5 +1,3 @@
-package PALL01;
-
 import java.util.*;
 
 public class Main 
