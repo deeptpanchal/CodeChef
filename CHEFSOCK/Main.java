@@ -11,5 +11,6 @@ public class Main
 	{
 		Scanner s = new Scanner(System.in);
 		System.out.println(solve(s.nextInt(), s.nextInt(), s.nextInt()));
+		s.close();
 	}
 }
