@@ -1,5 +1,3 @@
-package TSORT;
-
 import java.util.*;
 
 public class Main
