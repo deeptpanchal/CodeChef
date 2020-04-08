@@ -1,5 +1,3 @@
-package DIFFSUM;
-
 import java.util.*;
 
 public class Main 
