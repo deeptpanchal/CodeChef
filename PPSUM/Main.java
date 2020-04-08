@@ -1,5 +1,3 @@
-package PPSUM;
-
 import java.util.*;
 
 public class Main 
