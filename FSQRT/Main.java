@@ -1,5 +1,3 @@
-package FSQRT;
-
 import java.util.*;
 
 public class Main 
