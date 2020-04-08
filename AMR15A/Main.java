@@ -1,5 +1,3 @@
-package AMR15A;
-
 import java.util.*;
 
 public class Main 
