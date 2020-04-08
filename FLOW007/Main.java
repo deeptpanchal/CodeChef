@@ -1,5 +1,3 @@
-package FLOW007;
-
 import java.util.*;
 
 class Codechef 
