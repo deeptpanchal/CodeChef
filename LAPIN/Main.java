@@ -1,5 +1,3 @@
-package LAPIN;
-
 import java.util.*;
 
 public class Main 
