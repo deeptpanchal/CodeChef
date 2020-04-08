@@ -1,5 +1,3 @@
-package FRUITS;
-
 import java.util.*;
 
 public class Main 
