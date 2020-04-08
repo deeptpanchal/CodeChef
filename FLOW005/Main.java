@@ -1,5 +1,3 @@
-package FLOW005;
-
 import java.util.*;
 
 public class Main 
