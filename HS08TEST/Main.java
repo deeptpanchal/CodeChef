@@ -1,5 +1,3 @@
-package HS08TEST;
-
 import java.util.*;
 
 public class Main 
