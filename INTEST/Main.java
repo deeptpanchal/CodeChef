@@ -1,5 +1,3 @@
-package INTEST;
-
 import java.io.*;
 import java.util.*;
 
