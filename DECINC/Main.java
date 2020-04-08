@@ -1,5 +1,3 @@
-package DECINC;
-
 import java.util.*;
 
 public class Main 
