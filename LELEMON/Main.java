@@ -7,7 +7,8 @@ public class Main
 		long ans = 0;
 		for (int i = 0; i < m; i++) 
 		{
-			if (c[p[i]] > 0) {
+			if (c[p[i]] > 0) 
+			{
 				ans += v[p[i]][c[p[i]]-- - 1];
 			}
 		}
@@ -18,7 +19,8 @@ public class Main
 	{
 		Scanner s = new Scanner(System.in);
 		int x = s.nextInt();
-		while (x-- > 0) {
+		while (x-- > 0) 
+		{
 			int n = s.nextInt();
 			int m = s.nextInt();
 			int p[] = new int[m];
