@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Codechef 
+public class Main
 {
 	public static void main(String[] args)
 	{
